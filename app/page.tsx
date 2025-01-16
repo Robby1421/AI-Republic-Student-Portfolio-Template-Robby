@@ -91,7 +91,7 @@ const projects = [
     link : "http://github.com"
   },
   {
-    title: "Project_2",
+    title: "Project_3A",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
     problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
     solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
