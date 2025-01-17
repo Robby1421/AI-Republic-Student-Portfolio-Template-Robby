@@ -33,15 +33,10 @@ const skillCategories = [
     ],
   },
   {
-    title: "BACKEND",
+    title: "ETHICS, BIAS, & FAIRNESS IN AI",
     skills: [
-      { name: "React" },
-      { name: "CSS" },
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" },
+      { name: "AI Fairness 360" },
+      { name: "Responsible AI Principles" },
     ],
   },
 ];
