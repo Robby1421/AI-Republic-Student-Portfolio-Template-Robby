@@ -16,12 +16,12 @@ const projects = [
     link : "https://github.com/Robby1421/RecommenderSystem" // Github Link make sure it has https://
   },
   {
-    title: "Project_2",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    title: "Parcel Rescue AI",
+    image: "https://4623783.fs1.hubspotusercontent-na1.net/hub/4623783/hubfs/What%20is%20considered%20small%20parcel%3F.jpg?height=630&name=What%20is%20considered%20small%20parcel%3F.jpg",
+    problem: "Damaged parcels during transit are a common issue in the logistics and e-commerce industries, leading to customer dissatisfaction, financial losses, and reputational damage. Without an effective system for identifying and managing damaged packages, businesses struggle to quickly address these issues and minimize their impact.",
+    solution: "Parcel Rescue uses AI-driven technology to identify and assess damaged parcels in real-time, providing a streamlined process for reporting, tracking, and managing damaged goods. This ensures quicker resolution, reduces customer complaints, and helps companies maintain high standards of service by minimizing losses from damaged shipments.",
+    tools: ["Python", "OpenAI Model", "Streamlit"],
+    link : "https://robby-parcel-rescue.streamlit.app/" // Github Link make sure it has https://
   },
   {
     title: "Project_3",
