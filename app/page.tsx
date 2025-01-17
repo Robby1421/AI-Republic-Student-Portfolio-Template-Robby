@@ -17,8 +17,8 @@ export default function Home() {
           <div className="space-y-6 text-center lg:text-left">
             <p className="text-purple-400">LET'S COLLABORATE</p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              ROBBY JEAN POMBO, <br />
-              DATA SCIENCE & AI PRACTITIONER
+              ROBBY POMBO, <br />
+              AI ENGINEER
             </h1>
             <p className="text-gray-400 max-w-xl mx-auto lg:mx-0"> 
             I'm a civil-engineer-turned-ai-professional with experience in Analytics and AI Engineering within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
