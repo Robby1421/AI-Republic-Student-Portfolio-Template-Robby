@@ -17,11 +17,11 @@ export default function Home() {
           <div className="space-y-6 text-center lg:text-left">
             <p className="text-purple-400">LET'S COLLABORATE</p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              I'M [NAME],<br />
+              I'M ROBBY JEAN POMBO,<br />
               AN AI ENGINEER
             </h1>
             <p className="text-gray-400 max-w-xl mx-auto lg:mx-0"> 
-              Write About yourself as a professional!
+            I'm a civil-engineer-turned-ai-professional with experience in analytics within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
             </p> 
             <Link href="/projects">
               <Button className="bg-purple-600 hover:bg-purple-700">
