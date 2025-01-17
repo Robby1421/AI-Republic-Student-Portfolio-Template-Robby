@@ -98,11 +98,11 @@ const projects = [
     link : "https://robby-parcel-rescue.streamlit.app/"
   },
   {
-    title: "Project_3",
+    title: "Data Governance Agent - An Agentic AI Approach",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
-    problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
-    solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
-    link : "http://github.com"
+    problem: "Organizations struggle to maintain data governance at scale, facing challenges such as inconsistent data quality, complex compliance requirements, and the risk of unauthorized access. These issues can lead to data breaches, regulatory fines, and inefficiencies in data management.",
+    solution: "Agentic AI’s Data Governance Agent automates data governance tasks, ensuring compliance with regulations, enforcing access controls, and improving data quality through real-time monitoring. By utilizing AI-driven insights, it streamlines data management, tracks data lineage, and helps organizations maintain secure and compliant data ecosystems.",
+    link : "https://github.com/Robby1421/AIR_AI_Engineering_Course_Submission/blob/main/Day_6/DataGovernanceAgent.ipynb"
   },
   
 ];
