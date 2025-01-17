@@ -33,6 +33,15 @@ const skillCategories = [
     ],
   },
   {
+    title: "Machine Learning",
+    skills: [
+      { name: "scikit-learn" },
+      { name: "Supervised Learning Models" },
+      { name: "k-Nearest Neighbors" },
+      { name: "Unsupervised Learning Models" },
+    ],
+  },
+  {
     title: "ETHICS, BIAS, & FAIRNESS IN AI",
     skills: [
       { name: "AI Fairness 360" },
