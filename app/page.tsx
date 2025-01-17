@@ -93,12 +93,12 @@ const projects = [
   {
     title: "PARCEL RESCUE",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
-    problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
-    solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
+    problem: "Damaged parcels during transit are a common issue in the logistics and e-commerce industries, leading to customer dissatisfaction, financial losses, and reputational damage. Without an effective system for identifying and managing damaged packages, businesses struggle to quickly address these issues and minimize their impact.",
+    solution: "Parcel Rescue uses AI-driven technology to identify and assess damaged parcels in real-time, providing a streamlined process for reporting, tracking, and managing damaged goods. This ensures quicker resolution, reduces customer complaints, and helps companies maintain high standards of service by minimizing losses from damaged shipments.",
     link : "https://robby-parcel-rescue.streamlit.app/"
   },
   {
-    title: "Data Governance Agent - An Agentic AI Approach",
+    title: "Data Governance Agent - Agentic AI Model",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
     problem: "Organizations struggle to maintain data governance at scale, facing challenges such as inconsistent data quality, complex compliance requirements, and the risk of unauthorized access. These issues can lead to data breaches, regulatory fines, and inefficiencies in data management.",
     solution: "Agentic AI’s Data Governance Agent automates data governance tasks, ensuring compliance with regulations, enforcing access controls, and improving data quality through real-time monitoring. By utilizing AI-driven insights, it streamlines data management, tracks data lineage, and helps organizations maintain secure and compliant data ecosystems.",
