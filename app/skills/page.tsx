@@ -12,27 +12,24 @@ import { Badge } from "@/components/ui/badge";
 // {name : [Skill] }
 const skillCategories = [
   {
-    title: "FEATURED",
+    title: "DATA SCIENCE",
     skills: [
-      { name: "React" },
-      { name: "CSS" },
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" },
+      { name: "Python" },
+      { name: "SQL" },
+      { name: "Data Visualization" },
+      { name: "Data Wrangling" },
+      { name: "Data Manipulation" },
     ],
   },
   {
-    title: "FRONTEND",
+    title: "NATURAL LANGUAGE PROCESSING",
     skills: [
-      { name: "React" },
-      { name: "CSS" },
-      { name: "HTML" },
-      { name: "JavaScript" },
-      { name: "Next.js" },
-      { name: "SASS" },
-      { name: "Flutter" },
+      { name: "NLTK" },
+      { name: "spaCY" },
+      { name: "Hugging Face" },
+      { name: "Gensim" },
+      { name: "BERT" },
+      { name: "OpenAI GPT" },
     ],
   },
   {
