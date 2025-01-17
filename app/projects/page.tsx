@@ -8,12 +8,12 @@ import { ArrowRight, Terminal } from 'lucide-react';
 // Add your Projects Here
 const projects = [
   {
-    title: "Project_1",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    title: "Course Recommender System",
+    image: "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+    problem: "Businesses often struggle to deliver personalized experiences to customers due to inefficient recommendation algorithms, leading to irrelevant product suggestions, decreased engagement, and lost sales opportunities. Customers may feel overwhelmed by choices and disengage when recommendations aren’t tailored to their preferences.",
+    solution: "Recommender System uses advanced AI algorithms to provide highly accurate, personalized product recommendations based on individual user behavior and preferences. By analyzing user data in real-time, it enhances the shopping experience, increases conversion rates, and boosts customer satisfaction by delivering relevant and timely suggestions.",
+    tools: ["Python", "RAG", "LLM", "OpenAI API"],
+    link : "https://github.com/Robby1421/RecommenderSystem" // Github Link make sure it has https://
   },
   {
     title: "Project_2",
