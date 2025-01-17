@@ -92,7 +92,7 @@ const projects = [
   },
   {
     title: "Parcel Rescue AI",
-    image: "https://img.freepik.com/premium-photo/safety-delivery-concept-lifebuoy-with-cardboard-box-parcel-3d-rendering_808337-20738.jpg?w=1800",
+    image: "https://4623783.fs1.hubspotusercontent-na1.net/hub/4623783/hubfs/What%20is%20considered%20small%20parcel%3F.jpg?height=630&name=What%20is%20considered%20small%20parcel%3F.jpg",
     problem: "Damaged parcels during transit are a common issue in the logistics and e-commerce industries, leading to customer dissatisfaction, financial losses, and reputational damage. Without an effective system for identifying and managing damaged packages, businesses struggle to quickly address these issues and minimize their impact.",
     solution: "Parcel Rescue uses AI-driven technology to identify and assess damaged parcels in real-time, providing a streamlined process for reporting, tracking, and managing damaged goods. This ensures quicker resolution, reduces customer complaints, and helps companies maintain high standards of service by minimizing losses from damaged shipments.",
     link : "https://robby-parcel-rescue.streamlit.app/"
