@@ -49,6 +49,15 @@ const skillCategories = [
     ],
   },
   {
+    title: "Database Platform",
+    skills: [
+      { name: "PostgreSQL" },
+      { name: "Microsoft SQL Server" },
+      { name: "SQLite" },
+      { name: "Snowflake" },
+    ],
+  },
+  {
     title: "ETHICS, BIAS, & FAIRNESS IN AI",
     skills: [
       { name: "AI Fairness 360" },
