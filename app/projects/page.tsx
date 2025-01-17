@@ -24,20 +24,12 @@ const projects = [
     link : "https://robby-parcel-rescue.streamlit.app/" // Github Link make sure it has https://
   },
   {
-    title: "Project_3",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
-  },
-  {
-    title: "Project_4",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-    problem: "Problem",
-    solution: "Solution",
-    tools: ["Python", "TensorFlow", "Apache Kafka", "MongoDB"],
-    link : "https://www.Github.com" // Github Link make sure it has https://
+    title: "Data Governance Agentic AI",
+    image: "https://d3an9kf42ylj3p.cloudfront.net/uploads/2023/04/mk_datagovernancebestpractices-april-23.jpg",
+    problem: "Organizations struggle to maintain data governance at scale, facing challenges such as inconsistent data quality, complex compliance requirements, and the risk of unauthorized access. These issues can lead to data breaches, regulatory fines, and inefficiencies in data management.",
+    solution: "Agentic AI’s Data Governance Agent automates data governance tasks, ensuring compliance with regulations, enforcing access controls, and improving data quality through real-time monitoring. By utilizing AI-driven insights, it streamlines data management, tracks data lineage, and helps organizations maintain secure and compliant data ecosystems.",
+    tools: ["Python", "OpenAI API", "Streamlit", "Pandas"],
+    link : "https://github.com/Robby1421/AIR_AI_Engineering_Course_Submission/blob/main/Day_6/DataGovernanceAgent.ipynb" // Github Link make sure it has https://
   },
 
   
