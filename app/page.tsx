@@ -85,7 +85,7 @@ export default function Home() {
 const projects = [
   { 
     title: "Course Recommender System", 
-    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
+    image: "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
     problem: "Businesses often struggle to deliver personalized experiences to customers due to inefficient recommendation algorithms, leading to irrelevant product suggestions, decreased engagement, and lost sales opportunities. Customers may feel overwhelmed by choices and disengage when recommendations aren’t tailored to their preferences.",
     solution: "Recommender System uses advanced AI algorithms to provide highly accurate, personalized product recommendations based on individual user behavior and preferences. By analyzing user data in real-time, it enhances the shopping experience, increases conversion rates, and boosts customer satisfaction by delivering relevant and timely suggestions",
     link : "https://github.com/Robby1421/RecommenderSystem"
