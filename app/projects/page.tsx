@@ -113,40 +113,42 @@ export default function Projects() {
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/90" />
               </div>
               
-              <div className="p-4 sm:p-6 space-y-4">
-                <h3 className="text-lg sm:text-xl font-bold text-purple-400 tracking-tight">{project.title}</h3>
+              <div className="p-6 space-y-6">
+                <h3 className="text-xl font-bold text-purple-400 tracking-tight">{project.title}</h3>
                 
-                <div className="space-y-4">
+                <div className="space-y-6">
                   <div>
-                    <h4 className="text-purple-400 text-sm font-semibold uppercase tracking-wider mb-2">PROBLEM:</h4>
+                    <h4 className="text-purple-400 text-sm font-semibold uppercase tracking-wider mb-3">PROBLEM:</h4>
                     <p className="text-gray-400 text-sm leading-relaxed">{project.problem}</p>
                   </div>
                   
                   <div>
-                    <h4 className="text-purple-400 text-sm font-semibold uppercase tracking-wider mb-2">SOLUTION:</h4>
+                    <h4 className="text-purple-400 text-sm font-semibold uppercase tracking-wider mb-3">SOLUTION:</h4>
                     <p className="text-gray-400 text-sm leading-relaxed">{project.solution}</p>
                   </div>
                 </div>
                 
-                <div className="pt-4 space-y-4">
+                <div className="space-y-6">
                   <div className="flex flex-wrap gap-2">
                     {project.tools.map((tool, toolIndex) => (
                       <span
                         key={toolIndex}
-                        className="text-xs px-3 py-1 rounded-full bg-purple-500/10 text-purple-300 border border-purple-500/20"
+                        className="text-xs px-3 py-1.5 rounded-full bg-purple-500/10 text-purple-300 border border-purple-500/20"
                       >
                         {tool}
                       </span>
                     ))}
                   </div>
-                  <a href = {project.link} target="_blank" rel="noopener noreferrer">
-                  <Button
-                    className="w-full bg-purple-600 hover:bg-purple-700 text-white font-medium tracking-wide"
-                  >
-                    VIEW PROJECT
-                    <ArrowRight className="ml-2 h-4 w-4" />
-                  </Button>
-                  </a>
+                  <div className="mt-8">
+                    <a href={project.link} target="_blank" rel="noopener noreferrer">
+                      <Button
+                        className="w-full bg-purple-600 hover:bg-purple-700 text-white font-medium tracking-wide py-2.5"
+                      >
+                        VIEW PROJECT
+                        <ArrowRight className="ml-2 h-4 w-4" />
+                      </Button>
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -156,4 +158,3 @@ export default function Projects() {
     </main>
   );
 }
-
