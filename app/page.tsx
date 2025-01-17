@@ -17,8 +17,8 @@ export default function Home() {
           <div className="space-y-6 text-center lg:text-left">
             <p className="text-purple-400">LET'S COLLABORATE</p>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
-              I'M ROBBY JEAN POMBO,<br />
-              AN AI ENGINEER
+              ROBBY JEAN POMBO, <br />
+              DATA SCIENCE & AI PRACTITIONER
             </h1>
             <p className="text-gray-400 max-w-xl mx-auto lg:mx-0"> 
             I'm a civil-engineer-turned-ai-professional with experience in analytics within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
@@ -84,22 +84,22 @@ export default function Home() {
 
 const projects = [
   { 
-    title: "Project_1", 
+    title: "", 
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
     problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
     solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
     link : "http://github.com"
   },
   {
-    title: "Project_3A",
+    title: "PARCEL RESCUE",
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
     problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
     solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
-    link : "http://github.com"
+    link : "https://robby-parcel-rescue.streamlit.app/"
   },
   {
     title: "Project_3",
-    image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
+    image: "https://plus.unsplash.com/premium_photo-1681842793432-74cd14053ecc?q=80&w=2083&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
     solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
     link : "http://github.com"
