@@ -43,32 +43,15 @@ const skillCategories = [
 
 const technologies = {
   featured: [
-    { name: "React" },
-    { name: "CSS" },
-    { name: "HTML" },
-    { name: "JavaScript" },
-    { name: "Next.js" },
-    { name: "SASS" },
-    { name: "Flutter" },
+    { name: "Python" },
+    { name: "SQL" },
+    { name: "SAS" },
+    { name: "Snowflake" },
+    { name: "Machine Learning" },
+    { name: "Google Cloud Platform" },
+    { name: "Azure DevOps" },
   ],
-  frontend: [
-    { name: "React" },
-    { name: "CSS" },
-    { name: "HTML" },
-    { name: "JavaScript" },
-    { name: "Next.js" },
-    { name: "SASS" },
-    { name: "Flutter" },
-  ],
-  backend: [
-    { name: "React" },
-    { name: "CSS" },
-    { name: "HTML" },
-    { name: "JavaScript" },
-    { name: "Next.js" },
-    { name: "SASS" },
-    { name: "Flutter" },
-  ],
+
 };
 
 export default function Skills() {
