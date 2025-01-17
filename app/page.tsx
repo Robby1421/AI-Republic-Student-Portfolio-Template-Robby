@@ -21,7 +21,7 @@ export default function Home() {
               DATA SCIENCE & AI PRACTITIONER
             </h1>
             <p className="text-gray-400 max-w-xl mx-auto lg:mx-0"> 
-            I'm a civil-engineer-turned-ai-professional with experience in analytics within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
+            I'm a civil-engineer-turned-ai-professional with experience in Analytics and AI Engineering within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
             </p> 
             <Link href="/projects">
               <Button className="bg-purple-600 hover:bg-purple-700">
@@ -84,7 +84,7 @@ export default function Home() {
 
 const projects = [
   { 
-    title: "", 
+    title: "Project 1", 
     image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&fit=crop",
     problem: "Inefficient stock management leading to lost sales, excess inventory, and stock issues: 41.5%",
     solution: "Developed an inventory optimization tool using machine learning to forecast demand and optimize stock levels, resulting in a 35% reduction in stockouts and a 40% decrease in holding costs.",
