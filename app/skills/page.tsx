@@ -42,6 +42,13 @@ const skillCategories = [
     ],
   },
   {
+    title: "Cloud-based ML Platforms",
+    skills: [
+      { name: "Google Colab" },
+      { name: "Google Cloud Platform Vertex AI" },
+    ],
+  },
+  {
     title: "ETHICS, BIAS, & FAIRNESS IN AI",
     skills: [
       { name: "AI Fairness 360" },
