@@ -21,7 +21,7 @@ export default function Home() {
               AI ENGINEER
             </h1>
             <p className="text-gray-400 max-w-xl mx-auto lg:mx-0"> 
-            I'm a civil-engineer-turned-ai-professional with experience in Analytics and AI Engineering within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
+            I'm a civil-engineer-turned-ai-professional with experience in Analytics and AI Engineering within insurance, banking, and consultancy sector, leveraging technical background to deliver data driven solutions. I'm also an advocate in campaigning #DSAIForGood through volunteer projects (i.e. Omdena and Singapore International Foundation), maximizing the power of data to address social issues and make a positive impact.
             </p> 
             <Link href="/projects">
               <Button className="bg-purple-600 hover:bg-purple-700">
