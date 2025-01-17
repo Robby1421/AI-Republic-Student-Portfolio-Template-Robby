@@ -9,7 +9,7 @@ import { Terminal } from 'lucide-react';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'AI Engineer Portfolio | Erwin Caluag',
+  title: 'AI Engineer Portfolio | Robby Jean Pombo',
   description: 'AI Engineer specializing in machine learning and data analysis',
 };
 
@@ -62,7 +62,7 @@ export default function RootLayout({
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
               <div className="flex flex-col sm:flex-row items-center gap-4">
                 <Terminal className="text-purple-400" />
-                <span className="text-purple-300">youremail@gmail.com</span>
+                <span className="text-purple-300">robby.pombo@gmail.com</span>
                 <span className="text-purple-300">+63 123 1234 123 [Your Contact Number]</span>
               </div>
               <div className="text-purple-300">Stay Connected</div>
