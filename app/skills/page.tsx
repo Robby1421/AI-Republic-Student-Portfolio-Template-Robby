@@ -33,7 +33,7 @@ const skillCategories = [
     ],
   },
   {
-    title: "Machine Learning",
+    title: "MACHINE LEARNING",
     skills: [
       { name: "scikit-learn" },
       { name: "Supervised Learning Models" },
@@ -42,14 +42,14 @@ const skillCategories = [
     ],
   },
   {
-    title: "Cloud-based ML Platforms",
+    title: "CLOUD-BASED ML PLATFORM",
     skills: [
       { name: "Google Colab" },
       { name: "Google Cloud Platform Vertex AI" },
     ],
   },
   {
-    title: "Database Platform",
+    title: "DATABASE PLATFORM",
     skills: [
       { name: "PostgreSQL" },
       { name: "Microsoft SQL Server" },
